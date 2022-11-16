@@ -1,5 +1,4 @@
 theme: jekyll-theme-minimal
 title: 💻📚🎓📝
 description: Juliane Weilbach's CV
-_posts:
-  class: wide 
+classes: wide
