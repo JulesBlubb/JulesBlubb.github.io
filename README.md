@@ -41,4 +41,4 @@ _PhD Candidate at Bosch Center for Artificial Intelligence_ <br>
 <br><br>
 
 
-#### _Template taken from Carolyn Stransky._
+_Template taken from Carolyn Stransky._
