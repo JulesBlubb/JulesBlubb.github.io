@@ -10,7 +10,7 @@ _PhD Candidate at Bosch Center for Artificial Intelligence_ <br>
 
 ## 🧑‍🎓 Education
 
-**PhD Candidate at BCAI & University of Oldenburg** about Causal Inference in Dynamic Systems using Bayesian Modelling<br>
+**PhD student at BCAI & University of Oldenburg** about Causal Inference in Dynamic Systems using Bayesian Modelling<br>
 [Bosch Center for Artificial Intelligence (BCAI)](https://www.bosch-ai.com/) - Renningen, Germany _(Apr 2021 - Today)_ <br>
 
 **Master of Science** in Computer Science - Technical Cognitive Systems<br>
