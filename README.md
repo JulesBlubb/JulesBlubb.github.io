@@ -47,10 +47,10 @@ _Basic knowledge in:_ **ROS, Haskell, Clojure, Matlab and C++**
 
 **Volunteer tutoring for underprivileged pupils** @ Studenten helfen Schülern e.V. _(2021 - Today)_
 
-**Mentor for a young refugee family** @ Kinderschutzbund e.V. _(2019 - 2020)_
+**Mentor for a young refugee family** @ Kinderschutzbund e.V. _(2019 - 2020)_ <br>
 _The goal is to support a young mother in her integration in Germany. This includes help in learning the German language as well as coping with everyday challenges such as going to the immigration office. For this purpose a certified training was completed over several weekends._
 
-**International Interdisciplinary Computational Cognitive Science Spring School**
+**International Interdisciplinary Computational Cognitive Science Spring School** <br>
 _IICCSSS is an annual educational meeting for students and young researchers interested in computational approaches to brain and cognitive sciences with focus on Bayesian Modeling, Neural Networks and Signal Processing._
 
 **Organizer of Julia meetup** @ Stuttgart Julia Meetup _(2021 - Today)_
