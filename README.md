@@ -28,7 +28,7 @@ _PhD Candidate at Bosch Center for Artificial Intelligence_ <br>
 responsible for the customer meetings with the nurses and the user interface. We won among five groups because we had implemented the most customer requests. <br>
 
 ## 📌 Areas of Specialization
-_Machine Learning_; _Cognitive Systems_; _System Identification_; _Bayesian Statistics_; _Artificial Intelligence_; _Programming Languages_
+_Machine Learning_; _Cognitive Systems_; _System Identification_; _Bayesian Statistics_; _Artificial Intelligence_; _Programming Languages_ <br>
 
 ## 💻 Experience
 
@@ -37,11 +37,11 @@ _Machine Learning_; _Cognitive Systems_; _System Identification_; _Bayesian Stat
 **Student in Research & Development** @ Roche Diabetes Care _(Mar 2016 - May 2017)_ <br>
 
 ## 📑 Patents
-_Patent eu 17178771: Method and state machine system for detecting an operation status for a sensor._
+_Patent eu 17178771: Method and state machine system for detecting an operation status for a sensor._ <br>
 
 ## 🤓 Skills 
-_Profound knowledge in:_ **Julia, Python, Pytorch, TensorFlow, Java, R**
-_Basic knowledge in:_ **ROS, Haskell, Clojure, Matlab and C++**
+_Profound knowledge in:_ **Julia, Python, Pytorch, TensorFlow, Java, R** <br>
+_Basic knowledge in:_ **ROS, Haskell, Clojure, Matlab and C++** <br>
 
 ## 👥 Volunteering
 
