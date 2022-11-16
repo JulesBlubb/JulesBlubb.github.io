@@ -20,7 +20,7 @@ _PhD Candidate at Bosch Center for Artificial Intelligence_ <br>
   - Laboratory with Prof. Dr. Frank Hutter involving Bayesian Optimization for AutoML. <br>
   - Seminar with excellent performance about gender equality. <br>
 
-**Bachelor of Arts** in Medical Computer Science <br>
+**Bachelor of Science** in Medical Computer Science <br>
 [University of Mannheim](https://www.hs-mannheim.de/imb.html) - Mannheim, Germany _(2013-2017)_<br>
   - Thesis about detection of measurement errors in the test laboratory of a new product at Roche Diabetes Care by Machine Learning. <br>
   - As Linear Algebra tutor I explained and discussed exercise sheets with students and motivated them to solve the tasks. <br>
