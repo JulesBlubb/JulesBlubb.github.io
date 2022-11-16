@@ -4,11 +4,11 @@ _PhD Candidate at Bosch Center for Artificial Intelligence_ <br>
 
 [Email](mailto:juliane.weilbach@de.bosch.com) / [LinkedIn](https://www.linkedin.com/in/juliane-weilbach/) / [GitHub](https://github.com/JulesBlubb/) /
 
-## :page_facing_up: Publications
+## 📄 Publications
 
 [**Inferring the Structure of Ordinary Differential Equations**](https://arxiv.org/abs/2107.07345) - ICML 2021 time-series-workshop**
 
-## 👩🏼‍🎓 Education
+## 🧑‍🎓 Education
 
 **PhD Candidate at Bosch Center for Artificial Intelligence & University of Oldenburg** about Causal Inference in Dynamic Systems using Bayesian Modeling<br>
 [BCAI](https://www.bosch-ai.com/) - Renningen, Germany _(Apr 2021 - Today)_ <br>
@@ -19,13 +19,13 @@ _PhD Candidate at Bosch Center for Artificial Intelligence_ <br>
 **Bachelor of Arts** in Medical Computer Science <br>
 [University of Mannheim](https://www.hs-mannheim.de/imb.html) - Mannheim, Germany _(2013-2017)_
 
-## :computer: Professional experience
+## 💻 Professional experience
 
 **Julia developer for econometrics** @ Lambdaforge UG _(Jan 2021 - Apr 2021)_ <br>
 
 **Student in Research & Development** @ Roche Diabetes Care _(Mar 2016 - May 2017)_ <br>
 
-## :busts_in_silhouette: Volunteering
+## 👥 Volunteering
 
 **Volunteer tutoring for underprivileged pupils** @ Studenten helfen Schülern e.V. _(2021 - Today)_
 
