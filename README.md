@@ -24,13 +24,14 @@ _PhD Candidate at Bosch Center for Artificial Intelligence_ <br>
 **Julia developer for econometrics** @ Lambdaforge UG _(Jan 2021 - Apr 2021)_ <br>
 
 **Student in Research & Development** @ Roche Diabetes Care _(Mar 2016 - May 2017)_ <br>
-<br><br>
 
 ## :busts_in_silhouette: Volunteering
 
 **Volunteer tutoring for underprivileged pupils** @ Studenten helfen Schülern e.V. _(2021 - Today)_
 
 **Mentor for a migrated young family** @ Kinderschutzbund e.V. _(2019 - 2020)_
+
+**Organizer of Julia meetup** @ Stuttgart Julia Meetup _(2021 - Today)_
 
 ## 💬 Languages
 
