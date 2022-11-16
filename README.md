@@ -6,12 +6,12 @@ _PhD Candidate at Bosch Center for Artificial Intelligence_ <br>
 
 ## 📄 Publications
 
-[**Inferring the Structure of Ordinary Differential Equations**](https://arxiv.org/abs/2107.07345) - ICML 2021 time-series-workshop**
+[**Inferring the Structure of Ordinary Differential Equations**](https://arxiv.org/abs/2107.07345) - ICML 2021 time-series-workshop
 
 ## 🧑‍🎓 Education
 
-**PhD Candidate at Bosch Center for Artificial Intelligence & University of Oldenburg** about Causal Inference in Dynamic Systems using Bayesian Modeling<br>
-[BCAI](https://www.bosch-ai.com/) - Renningen, Germany _(Apr 2021 - Today)_ <br>
+**PhD Candidate at BCAI & University of Oldenburg** about Causal Inference in Dynamic Systems using Bayesian Modelling<br>
+[Bosch Center for Artificial Intelligence (BCAI)](https://www.bosch-ai.com/) - Renningen, Germany _(Apr 2021 - Today)_ <br>
 
 **Master of Science** in Computer Science - Technical Cognitive Systems<br>
 [University of Freiburg](https://www.tf.uni-freiburg.de/de) - Freiburg, Germany _(2017 - 2020)_
