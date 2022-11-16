@@ -19,7 +19,6 @@ _PhD Candidate at Bosch Center for Artificial Intelligence_ <br>
 **Bachelor of Arts** in Medical Computer Science <br>
 [University of Mannheim](https://www.hs-mannheim.de/imb.html) - Mannheim, Germany _(2013-2017)_
 
-
 ## :computer: Professional experience
 
 **Julia developer for econometrics** @ Lambdaforge UG _(Jan 2021 - Apr 2021)_ <br>
@@ -33,12 +32,15 @@ _PhD Candidate at Bosch Center for Artificial Intelligence_ <br>
 
 **Mentor for a migrated young family** @ Kinderschutzbund e.V. _(2019 - 2020)_
 
-
 ## 💬 Languages
 
 🇩🇪 **German**: Native <br>
 🇺🇸 **English**: Fluent 
 <br><br>
+
+
+
+
 
 
 _Template taken from Carolyn Stransky._
