@@ -28,7 +28,7 @@ _PhD Candidate at Bosch Center for Artificial Intelligence_ <br>
 responsible for the customer meetings with the nurses and the user interface. We won among five groups because we had implemented the most customer requests. <br>
 
 ## 📌 Areas of Specialization
-_Machine Learning_; _Cognitive Systems_; _System Identification_; _Bayesian Statistics_; _Artificial Intelligence_; _Programming Languages_ <br>
+_Machine Learning_; _Causal Inference_; _Cognitive Systems_; _System Identification_; _Bayesian Statistics_; _Artificial Intelligence_; _Programming Languages_ <br>
 
 ## 💻 Experience
 
