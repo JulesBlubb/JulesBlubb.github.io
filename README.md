@@ -53,7 +53,7 @@ _The goal is to support a young mother in her integration in Germany. This inclu
 **International Interdisciplinary Computational Cognitive Science Spring School** <br>
 _IICCSSS is an annual educational meeting for students and young researchers interested in computational approaches to brain and cognitive sciences with focus on Bayesian Modeling, Neural Networks and Signal Processing._
 
-**Organizer of Julia meetup** @ Stuttgart Julia Meetup _(2021 - Today)_
+**Organizer of Julia meetup** @ [Stuttgart Julia Meetup](https://gitlab.com/JulesBlubb20/stutt-julia/-/tree/master) _(2021 - Today)_ 
 
 ## 💬 Languages
 
