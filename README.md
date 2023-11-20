@@ -1,6 +1,6 @@
 # Juliane Weilbach
 
-_PhD Candidate at Bosch Center for Artificial Intelligence_ <br>
+_PhD Candidate at Bosch Center for Artificial Intelligence (BCAI) and University of Oldenburg_ <br>
 
 [Email](mailto:juliane.weilbach@protonmail.com) / [LinkedIn](https://www.linkedin.com/in/juliane-weilbach/) / [GitHub](https://github.com/JulesBlubb/) /
 
@@ -11,8 +11,7 @@ _PhD Candidate at Bosch Center for Artificial Intelligence_ <br>
 ## 🧑‍🎓 Education
 
 **PhD student at BCAI & University of Oldenburg** in the group of Prof. Dr. Martin Fränzle about Causal Dynamic Modeling with Bayesian Methods<br>
-[Bosch Center for Artificial Intelligence (BCAI)](https://www.bosch-ai.com/) - Renningen, <br>
-[University of Oldenburg](https://uol.de/socps/personen) Germany _(Apr 2021 - Today)_ <br>
+[Bosch Center for Artificial Intelligence (BCAI)](https://www.bosch-ai.com/) - [University of Oldenburg](https://uol.de/socps/personen) _(Apr 2021 - Today)_ <br>
 
 **Master of Science** in Computer Science - Technical Cognitive Systems<br>
 [University of Freiburg](https://www.tf.uni-freiburg.de/de) - Freiburg, Germany _(2017 - 2020)_<br>
