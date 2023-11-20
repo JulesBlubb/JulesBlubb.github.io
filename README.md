@@ -22,7 +22,7 @@ _PhD Candidate at BCAI & University of Oldenburg_ <br>
 
 **Bachelor of Science** in Medical Computer Science <br>
 [University of Mannheim](https://www.hs-mannheim.de/imb.html) - Mannheim, Germany _(2013-2017)_<br>
-  - Thesis about detection of measurement errors in the test laboratory of a new product at Roche Diabetes Care by using Machine Learning methods. <br>
+  - Thesis about detection of measurement errors in the test laboratory of a new product at Roche Diabetes Care. <br>
   - As Linear Algebra tutor I explained and discussed exercise sheets with students and motivated them to solve the tasks. <br>
   - Best group in the medical development project at the University Hospital Mannheim. I was
 responsible for the customer meetings with the nurses and the user interface. <br>
