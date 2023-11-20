@@ -2,7 +2,7 @@
 
 _PhD Candidate at Bosch Center for Artificial Intelligence & University of Oldenburg_ <br>
 
-[Email](mailto:juliane.weilbach@protonmail.com) / [LinkedIn](https://www.linkedin.com/in/juliane-weilbach/) / [GitHub](https://github.com/JulesBlubb/) /
+[Email](mailto:juliane.weilbach@protonmail.com) / [LinkedIn](https://www.linkedin.com/in/juliane-weilbach/) / [GitHub¹](https://github.com/JulesBlubb/) /
 
 ## 📄 Publications
 - [**Estimation of Counterfactual Interventions under Uncertainties**](https://arxiv.org/abs/2309.08332) - ACML 2023 
@@ -65,5 +65,7 @@ _IICCSSS is an annual educational meeting for students and young researchers int
 
 
 
+[^1]: This link corresponds to my public private Github, whereas my PhD Github profile is a private company account (not linked here).
 
-_Template taken from Carolyn Stransky._
+<sub><sup>Template taken from Carolyn Stransky.</sup></sub>
+
