@@ -2,7 +2,7 @@
 
 _PhD Candidate at BCAI & University of Oldenburg_ <br>
 
-[Email](mailto:juliane.weilbach@protonmail.com) / [LinkedIn](https://www.linkedin.com/in/juliane-weilbach/) / [GitHub[¹]](https://github.com/JulesBlubb/) /
+[Email](mailto:juliane.weilbach@protonmail.com) / [LinkedIn](https://www.linkedin.com/in/juliane-weilbach/) / [GitHub](https://github.com/JulesBlubb/) /
 
 ## 📄 Publications
 - [**Estimation of Counterfactual Interventions under Uncertainties**](https://arxiv.org/abs/2309.08332) - ACML 2023 
