@@ -8,7 +8,7 @@ _PhD Candidate at BCAI & University of Oldenburg_ <br>
 - [**Estimation of Counterfactual Interventions under Uncertainties**](https://arxiv.org/abs/2309.08332) - ACML 2023 
 - [**Inferring the Structure of Ordinary Differential Equations**](https://arxiv.org/abs/2107.07345) - ICML 2021 time-series-workshop
 
-## 🧑‍🎓 Education
+## 🎓 Education
 
 **PhD student at BCAI & University of Oldenburg** in the group of Prof. Dr. Martin Fränzle about Causal Dynamic Modeling with Bayesian Methods<br>
 [Bosch Center for Artificial Intelligence (BCAI)](https://www.bosch-ai.com/) - [University of Oldenburg](https://uol.de/socps/personen) _(Apr 2021 - Today)_ <br>
@@ -22,10 +22,10 @@ _PhD Candidate at BCAI & University of Oldenburg_ <br>
 
 **Bachelor of Science** in Medical Computer Science <br>
 [University of Mannheim](https://www.hs-mannheim.de/imb.html) - Mannheim, Germany _(2013-2017)_<br>
-  - Thesis about detection of measurement errors in the test laboratory of a new product at Roche Diabetes Care by Machine Learning. <br>
+  - Thesis about detection of measurement errors in the test laboratory of a new product at Roche Diabetes Care by using Machine Learning methods. <br>
   - As Linear Algebra tutor I explained and discussed exercise sheets with students and motivated them to solve the tasks. <br>
-  - Best group in the medical development project at the University Hospital Mannheim. Iwas
-responsible for the customer meetings with the nurses and the user interface. We won among five groups because we had implemented the most customer requests. <br>
+  - Best group in the medical development project at the University Hospital Mannheim. I was
+responsible for the customer meetings with the nurses and the user interface. <br>
 
 ## 📌 Areas of Specialization
 _Machine Learning_; _Causal Inference_; _Cognitive Systems_; _System Identification_; _Bayesian Statistics_; _Artificial Intelligence_; _Programming Languages_ <br>
