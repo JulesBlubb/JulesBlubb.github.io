@@ -2,16 +2,17 @@
 
 _PhD Candidate at Bosch Center for Artificial Intelligence_ <br>
 
-[Email](mailto:juliane.weilbach@de.bosch.com) / [LinkedIn](https://www.linkedin.com/in/juliane-weilbach/) / [GitHub](https://github.com/JulesBlubb/) /
+[Email](mailto:juliane.weilbach@protonmail.com) / [LinkedIn](https://www.linkedin.com/in/juliane-weilbach/) / [GitHub](https://github.com/JulesBlubb/) /
 
 ## 📄 Publications
-
-[**Inferring the Structure of Ordinary Differential Equations**](https://arxiv.org/abs/2107.07345) - ICML 2021 time-series-workshop
+- [**Estimation of Counterfactual Interventions under Uncertainties**](https://arxiv.org/abs/2309.08332) - ACML 2023 
+- [**Inferring the Structure of Ordinary Differential Equations**](https://arxiv.org/abs/2107.07345) - ICML 2021 time-series-workshop
 
 ## 🧑‍🎓 Education
 
-**PhD student at BCAI & University of Oldenburg** about Causal Inference in Dynamic Systems using Bayesian Modelling<br>
-[Bosch Center for Artificial Intelligence (BCAI)](https://www.bosch-ai.com/) - Renningen, Germany _(Apr 2021 - Today)_ <br>
+**PhD student at BCAI & University of Oldenburg** in the group of Prof. Dr. Martin Fränzle about Causal Dynamic Modeling with Bayesian Methods<br>
+[Bosch Center for Artificial Intelligence (BCAI)](https://www.bosch-ai.com/) - Renningen, <br>
+[University of Oldenburg](https://uol.de/socps/personen) Germany _(Apr 2021 - Today)_ <br>
 
 **Master of Science** in Computer Science - Technical Cognitive Systems<br>
 [University of Freiburg](https://www.tf.uni-freiburg.de/de) - Freiburg, Germany _(2017 - 2020)_<br>
@@ -40,12 +41,12 @@ _Machine Learning_; _Causal Inference_; _Cognitive Systems_; _System Identificat
 _Patent eu 17178771: Method and state machine system for detecting an operation status for a sensor._ <br>
 
 ## 🤓 Skills 
-_Profound knowledge in:_ **Julia, Python, Pytorch, TensorFlow, Java, R** <br>
+_Profound knowledge in:_ **Python, Pytorch, Julia, TensorFlow, Java, R** <br>
 _Basic knowledge in:_ **ROS, Haskell, Clojure, Matlab and C++** <br>
 
 ## 👥 Volunteering
 
-**Volunteer tutoring for underprivileged pupils** @ Studenten helfen Schülern e.V. _(2021 - Today)_
+**Volunteer math tutoring for underprivileged pupils** @ Studenten helfen Schülern e.V. _(2021 - 2023)_
 
 **Mentor for a young refugee family** @ Kinderschutzbund e.V. _(2019 - 2020)_ <br>
 _The goal is to support a young mother in her integration in Germany. This includes help in learning the German language as well as coping with everyday challenges such as going to the immigration office. For this purpose a certified training was completed over several weekends._
