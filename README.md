@@ -32,7 +32,7 @@ _Machine Learning_; _Causal Inference_; _Cognitive Systems_; _System Identificat
 
 ## 💻 Experience
 
-**PhD in Probabilistic Modeling for Dynamical Systems group** @ Bosch Center for Artificial Intelligence _(March 2020 - Today)_ <br>
+**PhD in Probabilistic Modeling for Dynamical Systems group** @ Bosch Center for Artificial Intelligence _(Apr 2021 - Today)_ <br>
 
 **Julia developer for econometrics** @ Lambdaforge UG _(Jan 2021 - Apr 2021)_ <br>
 
