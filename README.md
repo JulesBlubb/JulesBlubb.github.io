@@ -1,6 +1,6 @@
 # Juliane Weilbach
 
-_PhD Candidate at Bosch Center for Artificial Intelligence (BCAI) and University of Oldenburg_ <br>
+_PhD Candidate at Bosch Center for Artificial Intelligence & University of Oldenburg_ <br>
 
 [Email](mailto:juliane.weilbach@protonmail.com) / [LinkedIn](https://www.linkedin.com/in/juliane-weilbach/) / [GitHub](https://github.com/JulesBlubb/) /
 
