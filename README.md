@@ -66,7 +66,7 @@ _The goal is to support a young mother in her integration in Germany. This inclu
 
 
 
-[¹]: This link corresponds to my public private Github, whereas my PhD Github profile is a private company account (not linked here).
+[¹]: This link corresponds to my public own Github, whereas my PhD Github profile is a private company account (not linked here).
 
 <sub><sup>Template taken from Carolyn Stransky.</sup></sub>
 
