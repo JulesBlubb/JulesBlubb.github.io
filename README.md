@@ -45,7 +45,7 @@ _Patent US20200126669A1_: Method and state machine system for detecting an opera
 
 ## 🤓 Skills 
 _Profound knowledge in:_ **Python, Pytorch, Julia, TensorFlow, Java, R** <br>
-_Basic knowledge in:_ **ROS, Haskell, Clojure, Matlab and C++** <br>
+_Basic knowledge in:_ **ROS, Haskell, Clojure, Matlab, SQL and C++** <br>
 
 ## 👥 Volunteering
 
