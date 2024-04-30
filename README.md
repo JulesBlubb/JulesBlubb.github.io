@@ -40,8 +40,8 @@ _Machine Learning_; _Causal Inference_; _Cognitive Systems_; _System Identificat
 
 ## 📑 Patents
 
-_Patent US20230341826A1: Device and method for changing a technical system or a technical process. <br>
-_Patent US20200126669A1: Method and state machine system for detecting an operation status for a sensor.
+_Patent US20230341826A1_: Device and method for changing a technical system or a technical process. <br>
+_Patent US20200126669A1_: Method and state machine system for detecting an operation status for a sensor.
 
 ## 🤓 Skills 
 _Profound knowledge in:_ **Python, Pytorch, Julia, TensorFlow, Java, R** <br>
